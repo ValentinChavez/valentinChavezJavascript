@@ -28,7 +28,7 @@ for (let i = 1; i <= 7; i++) {
     alert(`EL valor de I es ${i}`);
     
 }
-*/
+
 
 //ACTIVIDAD N°1 DE LOS BOOKLETS
 
@@ -118,3 +118,14 @@ if ((entrada == "y") || (entrada == "Y")) {
 } else {
     alert("incorrecto")
 }
+*/
+
+// Primer desafio Complementario
+
+let numero2 = Number (prompt("ingrese un numero"));
+for (let i = 15; i <= 23; i++) {
+    let resultado = numero2 + i
+    alert(`${numero2} + ${i} = ${resultado}`)
+    
+}
+
