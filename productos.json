@@ -1,0 +1,26 @@
+[
+    {
+        "nombre" : "Guitarra Fender",
+        "precio" : "30000"
+    },
+    {
+        "nombre" : "Ukelele Parquer",
+        "precio" : "15000"
+    },
+    {
+        "nombre" : "Bajo Fender",
+        "precio" : "20000"
+    },
+    {
+        "nombre" : "Piano Yamaha",
+        "precio" : "50000"
+    },
+    {
+        "nombre" : "Bateria Roland",
+        "precio" : "45000"
+    },
+    {
+        "nombre" : "Chelo Concierto",
+        "precio" : "40000"
+    }
+]
